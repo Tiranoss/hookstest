@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hookstest/static/css/main.8cbe55b6.chunk.css",
+    "main.js": "/hookstest/static/js/main.232d4aa2.chunk.js",
+    "main.js.map": "/hookstest/static/js/main.232d4aa2.chunk.js.map",
+    "runtime-main.js": "/hookstest/static/js/runtime-main.4d78e209.js",
+    "runtime-main.js.map": "/hookstest/static/js/runtime-main.4d78e209.js.map",
+    "static/js/2.cb6864e5.chunk.js": "/hookstest/static/js/2.cb6864e5.chunk.js",
+    "static/js/2.cb6864e5.chunk.js.map": "/hookstest/static/js/2.cb6864e5.chunk.js.map",
+    "static/js/3.29f01324.chunk.js": "/hookstest/static/js/3.29f01324.chunk.js",
+    "static/js/3.29f01324.chunk.js.map": "/hookstest/static/js/3.29f01324.chunk.js.map",
+    "index.html": "/hookstest/index.html",
+    "static/css/main.8cbe55b6.chunk.css.map": "/hookstest/static/css/main.8cbe55b6.chunk.css.map",
+    "static/js/2.cb6864e5.chunk.js.LICENSE.txt": "/hookstest/static/js/2.cb6864e5.chunk.js.LICENSE.txt",
+    "static/media/Logom.8b7e9a5e.jpg": "/hookstest/static/media/Logom.8b7e9a5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d78e209.js",
+    "static/js/2.cb6864e5.chunk.js",
+    "static/css/main.8cbe55b6.chunk.css",
+    "static/js/main.232d4aa2.chunk.js"
+  ]
+}
